@@ -5,4 +5,4 @@ USDT Reward Pool with the 10% daily return and 13% referral rewards and lowest d
 
 # web 
 
-http://usdt3.cc
+http://usdt3.club
