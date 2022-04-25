@@ -5,4 +5,4 @@ The shib Reward Pool with the 10% daily return and 13% referral rewards and lowe
 
 # web 
 
-http://shib3.cc
+http://usdt3.cc
